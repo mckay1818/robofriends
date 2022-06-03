@@ -2,6 +2,7 @@ import React from 'react';
 import CardList from './CardList';
 import { robots } from './robots';
 import Search from './Search';
+import './App.css';
 
 
 class App extends React.Component {
