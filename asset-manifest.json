@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.2631d85b.css",
+    "main.js": "/robofriends/static/js/main.6aae9e68.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/El Tito Adolfo.woff": "/robofriends/static/media/El Tito Adolfo.b6bb1fc0b3c030703c04.woff",
+    "index.html": "/robofriends/index.html",
+    "main.2631d85b.css.map": "/robofriends/static/css/main.2631d85b.css.map",
+    "main.6aae9e68.js.map": "/robofriends/static/js/main.6aae9e68.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2631d85b.css",
+    "static/js/main.6aae9e68.js"
+  ]
+}
